@@ -1,0 +1,14 @@
+.pokemone{
+flex-basis: 17%;
+padding: 20px;
+}
+.pokemone h3{
+    letter-spacing: 5px;
+}
+.pokemone img{
+    width: 50%;
+    /* height: 30%; */
+}
+.pokemone:hover{
+    background: #ddd;
+}

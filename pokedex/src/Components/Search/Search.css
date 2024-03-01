@@ -1,0 +1,11 @@
+.search-wrapper {
+    display: block;
+    margin: 0 auto;
+}
+.search-wrapper input{
+    width: 500px;
+    margin-top: 22px;
+    padding: 15px;
+    outline: none;
+    border-radius: 6px;
+}
